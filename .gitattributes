@@ -2,3 +2,5 @@
 * text=auto
 
 lfs track "*.bmp"
+lfs track "*.v4d"
+lfs track "*.xyz"
