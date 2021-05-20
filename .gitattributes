@@ -1,6 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-
-lfs track "*.bmp"
-lfs track "*.v4d"
-lfs track "*.xyz"
+*.bmp filter=lfs diff=lfs merge=lfs -text
+*.v4d filter=lfs diff=lfs merge=lfs -text
+*.xyz filter=lfs diff=lfs merge=lfs -text
