@@ -1,0 +1,729 @@
+<?xml version="1.0" ?>
+<Library name="Ecliptic_Roleplay_Buildings" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>M_apartment</Name>
+        <File>ecliptic_roleplay_buildings\apartment\m_apartment.p3d</File>
+        <Date>06/05/18 00:43:07</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-832931008</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>17.220005</BBRadius>
+        <BBHScale>0.404340</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.245477" Y="-0.360003" Z="-17.220005" />
+        <BoundingMax X="10.680013" Y="20.069317" Z="17.220005" />
+        <BoundingCenter X="3.717268" Y="9.854657" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>seperated_doors</Name>
+        <File>ecliptic_roleplay_buildings\apartment\seperated_doors.p3d</File>
+        <Date>06/05/18 00:43:07</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-866121949</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.194002</BBRadius>
+        <BBHScale>0.253478</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.196000" Y="0.009998" Z="-8.194001" />
+        <BoundingMax X="4.350003" Y="15.510002" Z="8.194003" />
+        <BoundingCenter X="2.273001" Y="7.760000" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_Bank</Name>
+        <File>ecliptic_roleplay_buildings\bank\m_bank.p3d</File>
+        <Date>06/05/18 00:43:09</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>251940334</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>19.970131</BBRadius>
+        <BBHScale>1.107819</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-28.133024" Y="-0.567417" Z="-21.531385" />
+        <BoundingMax X="16.113575" Y="10.776982" Z="18.408875" />
+        <BoundingCenter X="-6.009725" Y="5.104783" Z="-1.561255" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_GunStore</Name>
+        <File>ecliptic_roleplay_buildings\gun_store\m_gunstore.p3d</File>
+        <Date>06/05/18 00:43:18</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1575797101</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.407965</BBRadius>
+        <BBHScale>0.666682</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.489052" Y="-0.022137" Z="-15.815930" />
+        <BoundingMax X="5.721834" Y="7.892765" Z="1.000000" />
+        <BoundingCenter X="0.116391" Y="3.935314" Z="-7.407965" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sign</Name>
+        <File>ecliptic_roleplay_buildings\gun_store\data\prox\sign.p3d</File>
+        <Date>06/05/18 00:43:15</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>447429501</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014519</BBRadius>
+        <BBHScale>23.455303</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="3.068840" Y="2.182996" Z="-2.449322" />
+        <BoundingMax X="3.749945" Y="2.536904" Z="-2.420284" />
+        <BoundingCenter X="3.409392" Y="2.359950" Z="-2.434803" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_house1</Name>
+        <File>ecliptic_roleplay_buildings\house1\m_house1.p3d</File>
+        <Date>06/05/18 00:43:45</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2020156067</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>20.327133</BBRadius>
+        <BBHScale>0.453923</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.646629" Y="-0.203731" Z="-11.065395" />
+        <BoundingMax X="7.807283" Y="7.376752" Z="29.588873" />
+        <BoundingCenter X="-1.419673" Y="3.586510" Z="9.261739" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_Bridge</Name>
+        <File>ecliptic_roleplay_buildings\items\bridge\m_bridge.p3d</File>
+        <Date>06/05/18 00:43:47</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1008394373</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>45.044380</BBRadius>
+        <BBHScale>0.265034</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.078907" Y="-0.029254" Z="-42.302361" />
+        <BoundingMax X="11.797640" Y="20.549801" Z="47.786404" />
+        <BoundingCenter X="-0.140634" Y="10.260274" Z="2.742022" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rw</Name>
+        <File>ecliptic_roleplay_buildings\items\bridge\rw.p3d</File>
+        <Date>06/05/18 00:43:47</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>7478405</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.033667</BBRadius>
+        <BBHScale>0.675539</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.909658" Y="5.402639" Z="27.719070" />
+        <BoundingMax X="6.646612" Y="6.808680" Z="47.786404" />
+        <BoundingCenter X="-0.131523" Y="6.105659" Z="37.752739" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_CarPark</Name>
+        <File>ecliptic_roleplay_buildings\items\carpark\m_carpark.p3d</File>
+        <Date>06/05/18 00:43:47</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1878386508</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.500000</BBRadius>
+        <BBHScale>2.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.000000" Y="-0.025000" Z="-15.000000" />
+        <BoundingMax X="15.000000" Y="0.025000" Z="0.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="-7.500000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Roadway</Name>
+        <File>ecliptic_roleplay_buildings\items\misc\roadway.p3d</File>
+        <Date>06/05/18 00:43:47</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1530029807</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.033666</BBRadius>
+        <BBHScale>0.675539</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.778135" Y="-0.701560" Z="-8.078030" />
+        <BoundingMax X="6.778135" Y="0.704481" Z="11.989302" />
+        <BoundingCenter X="0.000000" Y="0.001461" Z="1.955636" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_parkingline</Name>
+        <File>ecliptic_roleplay_buildings\items\parking_line\m_parkingline.p3d</File>
+        <Date>06/05/18 00:43:47</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>680260890</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.616762</BBRadius>
+        <BBHScale>0.510421</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.335652" Y="-0.073268" Z="-2.616762" />
+        <BoundingMax X="1.335652" Y="0.073268" Z="2.616762" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_prisongate</Name>
+        <File>ecliptic_roleplay_buildings\items\prisongate\m_prisongate.p3d</File>
+        <Date>06/05/18 00:43:47</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1748697096</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.388260</BBRadius>
+        <BBHScale>15.112177</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.795858" Y="-0.002304" Z="-0.391097" />
+        <BoundingMax X="5.939058" Y="4.803216" Z="0.385423" />
+        <BoundingCenter X="0.071600" Y="2.400456" Z="-0.002837" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>EC_sidewalk_1</Name>
+        <File>ecliptic_roleplay_buildings\items\sidewalk\ec_sidewalk_1.p3d</File>
+        <Date>06/05/18 00:43:47</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-199357677</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>0.504000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.150000" Y="0.000000" Z="-3.125000" />
+        <BoundingMax X="0.000000" Y="0.100000" Z="3.125000" />
+        <BoundingCenter X="-1.575000" Y="0.050000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>EC_Sidewalk_2</Name>
+        <File>ecliptic_roleplay_buildings\items\sidewalk\ec_sidewalk_2.p3d</File>
+        <Date>06/05/18 00:43:47</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-918174924</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.575000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.150000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="0.000000" Y="0.100000" Z="3.150000" />
+        <BoundingCenter X="-1.575000" Y="0.050000" Z="1.575000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_streetlamp</Name>
+        <File>ecliptic_roleplay_buildings\items\streetlamp\m_streetlamp.p3d</File>
+        <Date>06/05/18 00:43:47</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-903710963</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.335074</BBRadius>
+        <BBHScale>0.114378</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.267081" Y="-0.463924" Z="-0.267081" />
+        <BoundingMax X="0.267081" Y="12.694111" Z="4.403068" />
+        <BoundingCenter X="0.000000" Y="6.115093" Z="2.067993" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_Court</Name>
+        <File>ecliptic_roleplay_buildings\meanscourt\m_court.p3d</File>
+        <Date>06/05/18 00:44:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-759011911</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.796852</BBRadius>
+        <BBHScale>1.429318</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-41.150578" Y="0.776113" Z="-20.087650" />
+        <BoundingMax X="6.865511" Y="6.783985" Z="13.506054" />
+        <BoundingCenter X="-17.142532" Y="3.780049" Z="-3.290798" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_Fence</Name>
+        <File>ecliptic_roleplay_buildings\prison_fence\m_fence.p3d</File>
+        <Date>06/05/18 00:44:01</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-910038273</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.436740</BBRadius>
+        <BBHScale>8.128566</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.920949" Y="-0.107967" Z="-0.435169" />
+        <BoundingMax X="4.179193" Y="4.774836" Z="0.438312" />
+        <BoundingCenter X="0.629122" Y="2.333434" Z="0.001571" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cage1</Name>
+        <File>ecliptic_roleplay_buildings\prison_fence\data\cage1\cage1.p3d</File>
+        <Date>06/05/18 00:44:01</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>412822453</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.224255</BBRadius>
+        <BBHScale>3.794980</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.023767" Y="0.097789" Z="0.127247" />
+        <BoundingMax X="0.678316" Y="1.321864" Z="0.575756" />
+        <BoundingCenter X="-0.172725" Y="0.709826" Z="0.351502" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_Tower</Name>
+        <File>ecliptic_roleplay_buildings\prison_tower\m_tower.p3d</File>
+        <Date>06/05/18 00:44:04</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1449382039</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.573395</BBRadius>
+        <BBHScale>1.012214</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.821873" Y="-0.356241" Z="-4.447142" />
+        <BoundingMax X="4.436633" Y="21.463715" Z="4.699649" />
+        <BoundingCenter X="-0.192620" Y="10.553737" Z="0.126254" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_sheriff_station</Name>
+        <File>ecliptic_roleplay_buildings\sheriff_substation\m_sheriff_station.p3d</File>
+        <Date>06/05/18 00:44:05</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1571976586</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.048398</BBRadius>
+        <BBHScale>1.498890</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.141078" Y="0.008663" Z="-7.946383" />
+        <BoundingMax X="10.988471" Y="9.797256" Z="6.150412" />
+        <BoundingCenter X="0.423697" Y="4.902959" Z="-0.897985" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_clinic</Name>
+        <File>ecliptic_roleplay_buildings\shop_1\m_clinic.p3d</File>
+        <Date>06/05/18 00:44:14</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>218237466</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>22.041679</BBRadius>
+        <BBHScale>1.081455</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-30.843571" Y="-0.375437" Z="-20.581209" />
+        <BoundingMax X="16.830605" Y="10.776982" Z="23.502148" />
+        <BoundingCenter X="-7.006483" Y="5.200772" Z="1.460469" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>prison</Name>
+        <File>ecliptic_roleplay_buildings\state_prison\prison.p3d</File>
+        <Date>06/05/18 00:44:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1091078923</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.995039</BBRadius>
+        <BBHScale>1.152484</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.551750" Y="0.072960" Z="-9.474529" />
+        <BoundingMax X="20.401403" Y="10.072917" Z="16.515549" />
+        <BoundingCenter X="5.424827" Y="5.072938" Z="3.520510" />
+        <Placement></Placement>
+    </Template>
+</Library>

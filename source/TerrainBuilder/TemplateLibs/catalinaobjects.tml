@@ -1,0 +1,1323 @@
+<?xml version="1.0" ?>
+<Library name="catalinaobjects" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>c_cactus</Name>
+        <File>catalinaobjects\ded_cactus_01\c_cactus.p3d</File>
+        <Date>02/08/21 04:51:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>288798473</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_cactus1</Name>
+        <File>catalinaobjects\ded_cactus_01\c_cactus1.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-209712280</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.017950</BBRadius>
+        <BBHScale>1.016285</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.169738" Y="-0.128094" Z="-0.620396" />
+        <BoundingMax X="0.899316" Y="1.072275" Z="1.415504" />
+        <BoundingCenter X="-0.135211" Y="0.472091" Z="0.397554" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_cactus2</Name>
+        <File>catalinaobjects\ded_cactus_01\c_cactus2.p3d</File>
+        <Date>02/08/21 04:51:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-209712279</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>coffee_ded_coffee_01_f</Name>
+        <File>catalinaobjects\ded_coffee_01\coffee_ded_coffee_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1103706892</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.453804</BBRadius>
+        <BBHScale>1.243759</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-17.023790" Y="-0.758420" Z="-16.747614" />
+        <BoundingMax X="16.442801" Y="6.068798" Z="10.159994" />
+        <BoundingCenter X="-0.290495" Y="2.655189" Z="-3.293810" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>coffee_ded_coffee_02_f</Name>
+        <File>catalinaobjects\ded_coffee_01\coffee_ded_coffee_02_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1111968397</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.453804</BBRadius>
+        <BBHScale>1.243759</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-17.023790" Y="-0.758420" Z="-16.747614" />
+        <BoundingMax X="16.442801" Y="6.068798" Z="10.159994" />
+        <BoundingCenter X="-0.290495" Y="2.655189" Z="-3.293810" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fence1_ded_fence_01_f</Name>
+        <File>catalinaobjects\ded_fence_01\fence1_ded_fence_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-511150895</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.070147</BBRadius>
+        <BBHScale>20.154369</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.412682" Y="0.000000" Z="-0.070225" />
+        <BoundingMax X="1.414873" Y="2.261482" Z="0.070070" />
+        <BoundingCenter X="0.001096" Y="1.130741" Z="-0.000077" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fence2_ded_fence_02_f</Name>
+        <File>catalinaobjects\ded_fence_02\fence2_ded_fence_02_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1873475601</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.111340</BBRadius>
+        <BBHScale>33.361061</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.820572" Y="-0.109100" Z="-0.113580" />
+        <BoundingMax X="3.608259" Y="1.865808" Z="0.109100" />
+        <BoundingCenter X="-0.106156" Y="0.878354" Z="-0.002240" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bank_ded_house_01_f</Name>
+        <File>catalinaobjects\ded_house_01\bank_ded_house_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1328711002</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>21.781109</BBRadius>
+        <BBHScale>0.840720</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.180840" Y="-1.796802" Z="-32.578598" />
+        <BoundingMax X="16.442802" Y="10.069815" Z="10.983620" />
+        <BoundingCenter X="-1.869019" Y="4.136506" Z="-10.797489" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bank_ded_house_01_f_Debinarized_By_OMS_PublicTool</Name>
+        <File>catalinaobjects\ded_house_01\bank_ded_house_01_f_debinarized_by_oms_publictool.p3d</File>
+        <Date>02/08/21 04:51:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1900266946</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ranch_ded_ranch_01_f</Name>
+        <File>catalinaobjects\ded_ranch_01\ranch_ded_ranch_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-93829638</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.004791</BBRadius>
+        <BBHScale>1.063299</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.283998" Y="-1.193801" Z="-13.004791" />
+        <BoundingMax X="14.371976" Y="6.426197" Z="13.004791" />
+        <BoundingCenter X="0.543989" Y="2.616198" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ranch_ded_ranch_01_f_Debinarized_By_OMS_PublicTool</Name>
+        <File>catalinaobjects\ded_ranch_01\ranch_ded_ranch_01_f_debinarized_by_oms_publictool.p3d</File>
+        <Date>02/08/21 04:51:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-682796266</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ranch_ded_ranch_02_f</Name>
+        <File>catalinaobjects\ded_ranch_01\ranch_ded_ranch_02_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-85568133</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.004791</BBRadius>
+        <BBHScale>1.063299</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.283998" Y="-1.193801" Z="-13.004791" />
+        <BoundingMax X="14.371976" Y="6.426197" Z="13.004791" />
+        <BoundingCenter X="0.543989" Y="2.616198" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shop_ded_shop_01_f</Name>
+        <File>catalinaobjects\ded_shop_01\shop_ded_shop_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1515580148</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.534395</BBRadius>
+        <BBHScale>1.095663</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.573496" Y="-0.762000" Z="-8.534393" />
+        <BoundingMax X="8.128145" Y="13.461992" Z="8.534397" />
+        <BoundingCenter X="-1.222675" Y="6.349996" Z="0.000002" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shop_ded_shop_02_f</Name>
+        <File>catalinaobjects\ded_shop_01\shop_ded_shop_02_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1507318643</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.534395</BBRadius>
+        <BBHScale>1.095663</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.573496" Y="-0.762000" Z="-8.534393" />
+        <BoundingMax X="8.128145" Y="13.461992" Z="8.534397" />
+        <BoundingCenter X="-1.222675" Y="6.349996" Z="0.000002" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>dumpster_ded_dumpster_01_f</Name>
+        <File>catalinaobjects\ded_simple_01\dumpster_ded_dumpster_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>366508812</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.117385</BBRadius>
+        <BBHScale>0.453119</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.506308" Y="-0.119390" Z="-1.117385" />
+        <BoundingMax X="0.506308" Y="1.119390" Z="1.117385" />
+        <BoundingCenter X="0.000000" Y="0.500000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fancysidewalk_ded_fancysidewalk_01_f</Name>
+        <File>catalinaobjects\ded_simple_01\fancysidewalk_ded_fancysidewalk_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1511434288</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.457202</BBRadius>
+        <BBHScale>0.661439</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.626097" Y="-0.601211" Z="-3.507390" />
+        <BoundingMax X="1.624483" Y="0.236989" Z="1.407014" />
+        <BoundingCenter X="-0.000807" Y="-0.182111" Z="-1.050188" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fancysidewalk_ded_fancysidewalk_02_f</Name>
+        <File>catalinaobjects\ded_simple_01\fancysidewalk_ded_fancysidewalk_02_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1519695793</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.457202</BBRadius>
+        <BBHScale>0.992238</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.439128" Y="-0.601211" Z="-3.507390" />
+        <BoundingMax X="2.437128" Y="0.236989" Z="1.407014" />
+        <BoundingCenter X="-0.001000" Y="-0.182111" Z="-1.050188" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fancysidewalk_ded_fancysidewalk_03_f</Name>
+        <File>catalinaobjects\ded_simple_01\fancysidewalk_ded_fancysidewalk_03_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1527957298</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.459217</BBRadius>
+        <BBHScale>0.999008</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.283827" Y="-0.272952" Z="-2.616532" />
+        <BoundingMax X="2.629728" Y="0.237072" Z="2.301902" />
+        <BoundingCenter X="0.172951" Y="-0.017940" Z="-0.157315" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>home1g_ded_home1g_01_f</Name>
+        <File>catalinaobjects\ded_simple_01\home1g_ded_home1g_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>256535116</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.566393</BBRadius>
+        <BBHScale>0.942531</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.566393" Y="-0.821348" Z="-6.502396" />
+        <BoundingMax X="9.351904" Y="8.109377" Z="14.630390" />
+        <BoundingCenter X="-0.607244" Y="3.644014" Z="4.063997" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>home1g_ded_home1g_01_f_Debinarized_By_OMS_PublicTool</Name>
+        <File>catalinaobjects\ded_simple_01\home1g_ded_home1g_01_f_debinarized_by_oms_publictool.p3d</File>
+        <Date>02/08/21 04:51:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1994885016</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>home2b_ded_home2b_01_f</Name>
+        <File>catalinaobjects\ded_simple_01\home2b_ded_home2b_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-450196788</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.566393</BBRadius>
+        <BBHScale>0.942531</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.566393" Y="-0.821348" Z="-6.502396" />
+        <BoundingMax X="9.351904" Y="8.109377" Z="14.630390" />
+        <BoundingCenter X="-0.607244" Y="3.644014" Z="4.063997" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>home3r_ded_home3r_01_f</Name>
+        <File>catalinaobjects\ded_simple_01\home3r_ded_home3r_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>205246860</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.363194</BBRadius>
+        <BBHScale>0.827234</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.913208" Y="-0.826650" Z="-6.095995" />
+        <BoundingMax X="8.232365" Y="10.539354" Z="14.630391" />
+        <BoundingCenter X="-0.340422" Y="4.856352" Z="4.267198" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>home4w_ded_home4w_01_f</Name>
+        <File>catalinaobjects\ded_simple_01\home4w_ded_home4w_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-670919028</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.578272</BBRadius>
+        <BBHScale>0.941645</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.355263" Y="-0.812801" Z="-6.526155" />
+        <BoundingMax X="10.566689" Y="8.236111" Z="14.630390" />
+        <BoundingCenter X="0.605713" Y="3.711655" Z="4.052118" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>home5y_ded_home5y_01_f</Name>
+        <File>catalinaobjects\ded_simple_01\home5y_ded_home5y_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1939719116</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.972793</BBRadius>
+        <BBHScale>0.930554</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.855154" Y="-0.812801" Z="-7.315195" />
+        <BoundingMax X="10.566393" Y="8.236111" Z="14.630390" />
+        <BoundingCenter X="0.355619" Y="3.711655" Z="3.657598" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>home6b_ded_home6b_01_f</Name>
+        <File>catalinaobjects\ded_simple_01\home6b_ded_home6b_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>678974924</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.363192</BBRadius>
+        <BBHScale>0.828565</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.232365" Y="-0.812801" Z="-6.095994" />
+        <BoundingMax X="8.940792" Y="10.539354" Z="14.630390" />
+        <BoundingCenter X="0.354214" Y="4.863276" Z="4.267199" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mailbox_ded_mailbox_01_f</Name>
+        <File>catalinaobjects\ded_simple_01\mailbox_ded_mailbox_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1727009434</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.210568</BBRadius>
+        <BBHScale>2.424583</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.450880" Y="-0.261139" Z="-0.211285" />
+        <BoundingMax X="0.570199" Y="2.128192" Z="0.209851" />
+        <BoundingCenter X="0.059660" Y="0.933527" Z="-0.000717" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>market_ded_market_01_f</Name>
+        <File>catalinaobjects\ded_simple_01\market_ded_market_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1527031564</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.864262</BBRadius>
+        <BBHScale>0.986276</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-24.206398" Y="-2.131775" Z="-28.487463" />
+        <BoundingMax X="24.839672" Y="11.618412" Z="21.241060" />
+        <BoundingCenter X="0.316637" Y="4.743319" Z="-3.623201" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>market_ded_market_02_f</Name>
+        <File>catalinaobjects\ded_simple_01\market_ded_market_02_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1535293069</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>21.669540</BBRadius>
+        <BBHScale>0.617361</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.249540" Y="-2.131773" Z="-23.052345" />
+        <BoundingMax X="13.506300" Y="11.633196" Z="20.286736" />
+        <BoundingCenter X="0.128380" Y="4.750711" Z="-1.382805" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>market_ded_market_03_f</Name>
+        <File>catalinaobjects\ded_simple_01\market_ded_market_03_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1543554574</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.448418</BBRadius>
+        <BBHScale>0.892168</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-22.732929" Y="-2.131775" Z="-27.141817" />
+        <BoundingMax X="20.891247" Y="11.633196" Z="21.755018" />
+        <BoundingCenter X="-0.920841" Y="4.750710" Z="-2.693399" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>market_ded_market_04_f</Name>
+        <File>catalinaobjects\ded_simple_01\market_ded_market_04_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1551816079</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>20.993637</BBRadius>
+        <BBHScale>0.970434</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-16.514769" Y="-2.660945" Z="-21.900230" />
+        <BoundingMax X="24.231092" Y="8.177909" Z="20.087044" />
+        <BoundingCenter X="3.858162" Y="2.758482" Z="-0.906593" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>market_ded_market_05_f</Name>
+        <File>catalinaobjects\ded_simple_01\market_ded_market_05_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1560077584</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>20.828915</BBRadius>
+        <BBHScale>1.520142</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-31.549673" Y="-2.660944" Z="-20.925442" />
+        <BoundingMax X="31.776155" Y="10.871192" Z="20.732388" />
+        <BoundingCenter X="0.113241" Y="4.105124" Z="-0.096527" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>market_ded_market_06_f</Name>
+        <File>catalinaobjects\ded_simple_01\market_ded_market_06_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1568339089</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>20.846294</BBRadius>
+        <BBHScale>1.049916</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-22.854469" Y="-2.660945" Z="-21.725777" />
+        <BoundingMax X="20.919250" Y="8.177909" Z="19.966812" />
+        <BoundingCenter X="-0.967609" Y="2.758482" Z="-0.879482" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>observesign_ded_observesign_01_f</Name>
+        <File>catalinaobjects\ded_simple_01\observesign_ded_observesign_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1437377648</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.417812</BBRadius>
+        <BBHScale>5.125654</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.136099" Y="-0.042719" Z="-0.293119" />
+        <BoundingMax X="2.147025" Y="1.549781" Z="0.542506" />
+        <BoundingCenter X="0.005463" Y="0.753531" Z="0.124693" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>planter_ded_planter_01_f</Name>
+        <File>catalinaobjects\ded_simple_01\planter_ded_planter_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-960620014</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.770494</BBRadius>
+        <BBHScale>1.522522</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.785124" Y="-0.820708" Z="-0.770424" />
+        <BoundingMax X="1.561065" Y="0.770424" Z="0.770565" />
+        <BoundingCenter X="0.387970" Y="-0.025142" Z="0.000070" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk_ded_sidewalk_01_f</Name>
+        <File>catalinaobjects\ded_simple_01\sidewalk_ded_sidewalk_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2056511092</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.231459</BBRadius>
+        <BBHScale>1.319808</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.626097" Y="-0.601211" Z="-1.055905" />
+        <BoundingMax X="1.624483" Y="0.236989" Z="1.407014" />
+        <BoundingCenter X="-0.000807" Y="-0.182111" Z="0.175555" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk_ded_sidewalk_02_f</Name>
+        <File>catalinaobjects\ded_simple_01\sidewalk_ded_sidewalk_02_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2048249587</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.947786</BBRadius>
+        <BBHScale>1.046602</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.452631" Y="-0.262952" Z="-2.485799" />
+        <BoundingMax X="1.624483" Y="0.237072" Z="1.409773" />
+        <BoundingCenter X="-0.414074" Y="-0.012940" Z="-0.538013" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk_ded_sidewalk_03_f</Name>
+        <File>catalinaobjects\ded_simple_01\sidewalk_ded_sidewalk_03_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2039988082</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.231459</BBRadius>
+        <BBHScale>9.241024</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.382471" Y="-0.601211" Z="-1.055905" />
+        <BoundingMax X="11.377422" Y="0.236989" Z="1.407014" />
+        <BoundingCenter X="-0.002524" Y="-0.182111" Z="0.175555" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>smallshop_ded_smallshop_01_f</Name>
+        <File>catalinaobjects\ded_simple_01\smallshop_ded_smallshop_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>396969416</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.689598</BBRadius>
+        <BBHScale>1.786278</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.215799" Y="-0.817196" Z="-5.689597" />
+        <BoundingMax X="10.110605" Y="5.349673" Z="5.689599" />
+        <BoundingCenter X="-0.052597" Y="2.266238" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>smallshop_ded_smallshop_02_f</Name>
+        <File>catalinaobjects\ded_simple_01\smallshop_ded_smallshop_02_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>405230921</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.689598</BBRadius>
+        <BBHScale>1.786278</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.215805" Y="-0.817196" Z="-5.689597" />
+        <BoundingMax X="10.110605" Y="5.349673" Z="5.689599" />
+        <BoundingCenter X="-0.052600" Y="2.266238" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>taco_ded_taco_01_f</Name>
+        <File>catalinaobjects\ded_taco_01\taco_ded_taco_01_f.p3d</File>
+        <Date>01/01/70 00:00:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1094750644</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>21.234386</BBRadius>
+        <BBHScale>1.153110</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-24.587183" Y="1.801422" Z="-30.886389" />
+        <BoundingMax X="24.383986" Y="12.098794" Z="11.582386" />
+        <BoundingCenter X="-0.101599" Y="6.950108" Z="-9.652001" />
+        <Placement></Placement>
+    </Template>
+</Library>

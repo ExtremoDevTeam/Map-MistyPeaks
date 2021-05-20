@@ -1,0 +1,1422 @@
+<?xml version="1.0" ?>
+<Library name="NERP_Assets" shape="rectangle" default_fill="-32704" default_outline="-1" tex="0">
+    <Template>
+        <Name>t_picea1s</Name>
+        <File>nerp_assets\tree\t_picea1s.p3d</File>
+        <Date>01/03/20 03:27:28</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-976924995</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.183258</BBRadius>
+        <BBHScale>1.101530</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.743508" Y="-0.871657" Z="-2.262423" />
+        <BoundingMax X="2.066342" Y="8.797549" Z="2.104094" />
+        <BoundingCenter X="-0.338583" Y="3.962946" Z="-0.079165" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_picea2s</Name>
+        <File>nerp_assets\tree\t_picea2s.p3d</File>
+        <Date>01/03/20 03:27:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-976859396</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.848611</BBRadius>
+        <BBHScale>1.026737</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>10.440651</Height>
+        <BoundingMin X="-7.101178" Y="-2.503048" Z="-6.723210" />
+        <BoundingMax X="6.962273" Y="18.378254" Z="6.974012" />
+        <BoundingCenter X="-0.069453" Y="7.937603" Z="0.125401" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_picea3f</Name>
+        <File>nerp_assets\tree\t_picea3f.p3d</File>
+        <Date>01/03/20 03:27:30</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-976793810</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.276667</BBRadius>
+        <BBHScale>0.997091</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.434189" Y="-3.505306" Z="-4.793472" />
+        <BoundingMax X="5.088443" Y="33.230389" Z="5.759861" />
+        <BoundingCenter X="-0.172873" Y="14.862541" Z="0.483194" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_signair</Name>
+        <File>nerp_assets\signs\m_signair.p3d</File>
+        <Date>01/03/20 03:27:26</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-771684197</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107852</BBRadius>
+        <BBHScale>4.441756</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.478327" Y="-0.284751" Z="-0.064517" />
+        <BoundingMax X="0.479777" Y="2.716862" Z="0.151187" />
+        <BoundingCenter X="0.000725" Y="1.216055" Z="0.043335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_signbump</Name>
+        <File>nerp_assets\signs\m_signbump.p3d</File>
+        <Date>01/03/20 03:27:26</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-347690971</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107852</BBRadius>
+        <BBHScale>4.441756</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.478327" Y="-0.284751" Z="-0.064517" />
+        <BoundingMax X="0.479777" Y="2.716862" Z="0.151187" />
+        <BoundingCenter X="0.000725" Y="1.216055" Z="0.043335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_signcow</Name>
+        <File>nerp_assets\signs\m_signcow.p3d</File>
+        <Date>01/03/20 03:27:26</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-754767588</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107852</BBRadius>
+        <BBHScale>4.441756</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.478327" Y="-0.284751" Z="-0.064517" />
+        <BoundingMax X="0.479777" Y="2.716862" Z="0.151187" />
+        <BoundingCenter X="0.000725" Y="1.216055" Z="0.043335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_signcrime</Name>
+        <File>nerp_assets\signs\m_signcrime.p3d</File>
+        <Date>01/03/20 03:27:26</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1155862403</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107852</BBRadius>
+        <BBHScale>3.297863</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.355681" Y="-0.284751" Z="-0.064517" />
+        <BoundingMax X="0.355681" Y="2.716862" Z="0.151187" />
+        <BoundingCenter X="0.000000" Y="1.216055" Z="0.043335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_signdeer</Name>
+        <File>nerp_assets\signs\m_signdeer.p3d</File>
+        <Date>01/03/20 03:27:26</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1080774557</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107852</BBRadius>
+        <BBHScale>4.441756</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.478327" Y="-0.284751" Z="-0.064517" />
+        <BoundingMax X="0.479777" Y="2.716862" Z="0.151187" />
+        <BoundingCenter X="0.000725" Y="1.216055" Z="0.043335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_signspeed15</Name>
+        <File>nerp_assets\signs\m_signspeed15.p3d</File>
+        <Date>01/03/20 03:27:26</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2012257884</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107852</BBRadius>
+        <BBHScale>3.297863</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.355681" Y="-0.284751" Z="-0.064517" />
+        <BoundingMax X="0.355681" Y="2.716862" Z="0.151187" />
+        <BoundingCenter X="0.000000" Y="1.216055" Z="0.043335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_signspeed25</Name>
+        <File>nerp_assets\signs\m_signspeed25.p3d</File>
+        <Date>01/03/20 03:27:26</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2012323483</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107852</BBRadius>
+        <BBHScale>3.297863</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.355681" Y="-0.284751" Z="-0.064517" />
+        <BoundingMax X="0.355681" Y="2.716862" Z="0.151187" />
+        <BoundingCenter X="0.000000" Y="1.216055" Z="0.043335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_signspeed35</Name>
+        <File>nerp_assets\signs\m_signspeed35.p3d</File>
+        <Date>01/03/20 03:27:26</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2012389082</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107852</BBRadius>
+        <BBHScale>3.297863</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.355681" Y="-0.284751" Z="-0.064517" />
+        <BoundingMax X="0.355681" Y="2.716862" Z="0.151187" />
+        <BoundingCenter X="0.000000" Y="1.216055" Z="0.043335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_signspeed50</Name>
+        <File>nerp_assets\signs\m_signspeed50.p3d</File>
+        <Date>01/03/20 03:27:26</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2012520275</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107852</BBRadius>
+        <BBHScale>3.297863</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.355681" Y="-0.284751" Z="-0.064517" />
+        <BoundingMax X="0.355681" Y="2.716862" Z="0.151187" />
+        <BoundingCenter X="0.000000" Y="1.216055" Z="0.043335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_signspeed60</Name>
+        <File>nerp_assets\signs\m_signspeed60.p3d</File>
+        <Date>01/03/20 03:27:26</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2012585874</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107852</BBRadius>
+        <BBHScale>3.297863</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.355681" Y="-0.284751" Z="-0.064517" />
+        <BoundingMax X="0.355681" Y="2.716862" Z="0.151187" />
+        <BoundingCenter X="0.000000" Y="1.216055" Z="0.043335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_signstop</Name>
+        <File>nerp_assets\signs\m_signstop.p3d</File>
+        <Date>01/03/20 03:27:27</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>29259217</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107852</BBRadius>
+        <BBHScale>3.537652</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.384583" Y="-0.284751" Z="-0.064517" />
+        <BoundingMax X="0.378502" Y="2.716862" Z="0.151187" />
+        <BoundingCenter X="-0.003040" Y="1.216055" Z="0.043335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_signturnleft</Name>
+        <File>nerp_assets\signs\m_signturnleft.p3d</File>
+        <Date>01/03/20 03:27:27</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>101602003</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107852</BBRadius>
+        <BBHScale>4.441756</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.478971" Y="-0.284751" Z="-0.064517" />
+        <BoundingMax X="0.479133" Y="2.716862" Z="0.151187" />
+        <BoundingCenter X="0.000081" Y="1.216055" Z="0.043335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_signturnright</Name>
+        <File>nerp_assets\signs\m_signturnright.p3d</File>
+        <Date>01/03/20 03:27:27</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>577825776</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107852</BBRadius>
+        <BBHScale>4.441756</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.478327" Y="-0.284751" Z="-0.064517" />
+        <BoundingMax X="0.479777" Y="2.716862" Z="0.151187" />
+        <BoundingCenter X="0.000725" Y="1.216055" Z="0.043335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_signwet</Name>
+        <File>nerp_assets\signs\m_signwet.p3d</File>
+        <Date>01/03/20 03:27:27</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-590193481</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107852</BBRadius>
+        <BBHScale>4.441756</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.478327" Y="-0.284751" Z="-0.064517" />
+        <BoundingMax X="0.479777" Y="2.716862" Z="0.151187" />
+        <BoundingCenter X="0.000725" Y="1.216055" Z="0.043335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_signwildlife</Name>
+        <File>nerp_assets\signs\m_signwildlife.p3d</File>
+        <Date>01/03/20 03:27:27</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1158514059</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107852</BBRadius>
+        <BBHScale>3.297863</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.355681" Y="-0.284751" Z="-0.064517" />
+        <BoundingMax X="0.355681" Y="2.716862" Z="0.151187" />
+        <BoundingCenter X="0.000000" Y="1.216055" Z="0.043335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_signwilltarr</Name>
+        <File>nerp_assets\signs\m_signwilltarr.p3d</File>
+        <Date>01/03/20 03:27:27</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1252491118</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107852</BBRadius>
+        <BBHScale>4.441756</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.478327" Y="-0.284751" Z="-0.064517" />
+        <BoundingMax X="0.479777" Y="2.716862" Z="0.151187" />
+        <BoundingCenter X="0.000725" Y="1.216055" Z="0.043335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_Trailer</Name>
+        <File>nerp_assets\buildings\trailer\m_trailer.p3d</File>
+        <Date>01/03/20 03:27:15</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>798486017</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.978600</BBRadius>
+        <BBHScale>0.349022</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.580676" Y="-0.618147" Z="-6.432817" />
+        <BoundingMax X="3.384819" Y="3.736344" Z="13.524382" />
+        <BoundingCenter X="-0.097929" Y="1.559098" Z="3.545782" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_Trailer_2</Name>
+        <File>nerp_assets\buildings\trailer\m_trailer_2.p3d</File>
+        <Date>01/03/20 03:27:17</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>123606292</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.994818</BBRadius>
+        <BBHScale>0.348455</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.580676" Y="-0.618147" Z="-6.334214" />
+        <BoundingMax X="3.384819" Y="4.000988" Z="13.655421" />
+        <BoundingCenter X="-0.097929" Y="1.691420" Z="3.660604" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_Trailer_3</Name>
+        <File>nerp_assets\buildings\trailer\m_trailer_3.p3d</File>
+        <Date>01/03/20 03:27:19</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>123606293</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.978600</BBRadius>
+        <BBHScale>0.349022</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.580676" Y="-0.618147" Z="-6.432817" />
+        <BoundingMax X="3.384819" Y="3.736344" Z="13.524382" />
+        <BoundingCenter X="-0.097929" Y="1.559098" Z="3.545782" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_Trailer_4</Name>
+        <File>nerp_assets\buildings\trailer\m_trailer_4.p3d</File>
+        <Date>01/03/20 03:27:22</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>123606294</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.994818</BBRadius>
+        <BBHScale>0.348455</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.580676" Y="-0.618147" Z="-6.334214" />
+        <BoundingMax X="3.384819" Y="4.000988" Z="13.655421" />
+        <BoundingCenter X="-0.097929" Y="1.691420" Z="3.660604" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_Trailer_5</Name>
+        <File>nerp_assets\buildings\trailer\m_trailer_5.p3d</File>
+        <Date>01/03/20 03:27:24</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>123606295</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.978600</BBRadius>
+        <BBHScale>0.349022</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.580676" Y="-0.618147" Z="-6.432817" />
+        <BoundingMax X="3.384819" Y="3.736344" Z="13.524382" />
+        <BoundingCenter X="-0.097929" Y="1.559098" Z="3.545782" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_Trailer_6</Name>
+        <File>nerp_assets\buildings\trailer\m_trailer_6.p3d</File>
+        <Date>01/03/20 03:27:26</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>123606296</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.994818</BBRadius>
+        <BBHScale>0.348455</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.580676" Y="-0.618147" Z="-6.334214" />
+        <BoundingMax X="3.384819" Y="4.000988" Z="13.655421" />
+        <BoundingCenter X="-0.097929" Y="1.691420" Z="3.660604" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_store1</Name>
+        <File>nerp_assets\buildings\store_1\m_store1.p3d</File>
+        <Date>01/03/20 03:27:12</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1471662238</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>17.046722</BBRadius>
+        <BBHScale>0.560650</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.545158" Y="-0.069397" Z="-17.174738" />
+        <BoundingMax X="9.569332" Y="6.288188" Z="16.918707" />
+        <BoundingCenter X="0.012087" Y="3.109396" Z="-0.128016" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_Mailbox</Name>
+        <File>nerp_assets\items\mailbox\m_mailbox.p3d</File>
+        <Date>01/03/20 03:27:26</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2121415422</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.121978</BBRadius>
+        <BBHScale>2.908601</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.384978" Y="-0.830500" Z="-0.129588" />
+        <BoundingMax X="0.324593" Y="0.782686" Z="0.114368" />
+        <BoundingCenter X="-0.030193" Y="-0.023907" Z="-0.007610" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_Fence2</Name>
+        <File>nerp_assets\items\fence\m_fence2.p3d</File>
+        <Date>01/03/20 03:27:26</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1850223373</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.569488</BBRadius>
+        <BBHScale>0.035872</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.055066" Y="-0.000926" Z="-1.561700" />
+        <BoundingMax X="0.057536" Y="1.139030" Z="1.577276" />
+        <BoundingCenter X="0.001235" Y="0.569052" Z="0.007788" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_Fence2_pole</Name>
+        <File>nerp_assets\items\fence\m_fence2_pole.p3d</File>
+        <Date>01/03/20 03:27:26</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-965155932</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.525286</BBRadius>
+        <BBHScale>0.018551</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.000946" Y="-0.000926" Z="-1.495770" />
+        <BoundingMax X="0.057536" Y="1.139030" Z="1.554803" />
+        <BoundingCenter X="0.029241" Y="0.569052" Z="0.029517" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_LargeBank</Name>
+        <File>nerp_assets\buildings\bank\m_largebank.p3d</File>
+        <Date>01/03/20 03:26:32</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1722762405</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>20.090576</BBRadius>
+        <BBHScale>0.678412</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.881132" Y="-0.004140" Z="-13.297826" />
+        <BoundingMax X="6.378229" Y="13.696128" Z="26.883327" />
+        <BoundingCenter X="-7.251451" Y="6.845994" Z="6.792751" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_Store2</Name>
+        <File>nerp_assets\buildings\store_2\m_store2.p3d</File>
+        <Date>01/03/20 03:27:12</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-490991741</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.343666</BBRadius>
+        <BBHScale>1.123062</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.940714" Y="0.066039" Z="-11.744199" />
+        <BoundingMax X="11.538570" Y="12.641516" Z="10.943134" />
+        <BoundingCenter X="-1.201072" Y="6.353777" Z="-0.400532" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_Store2test</Name>
+        <File>nerp_assets\buildings\store_2\m_store2test.p3d</File>
+        <Date>01/03/20 03:27:13</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1987609163</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.343666</BBRadius>
+        <BBHScale>1.108042</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.599943" Y="0.066039" Z="-11.744199" />
+        <BoundingMax X="11.538570" Y="12.641516" Z="10.943134" />
+        <BoundingCenter X="-1.030686" Y="6.353777" Z="-0.400532" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_bridgestart</Name>
+        <File>nerp_assets\textures\bridge\m_bridgestart.p3d</File>
+        <Date>01/03/20 03:27:27</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1660335417</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.774771</BBRadius>
+        <BBHScale>0.321017</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-24.476366" Y="4.632641" Z="-9.756952" />
+        <BoundingMax X="-18.200626" Y="10.066099" Z="9.792589" />
+        <BoundingCenter X="-21.338497" Y="7.349370" Z="0.017818" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_bridgesupport</Name>
+        <File>nerp_assets\textures\bridge\m_bridgesupport.p3d</File>
+        <Date>01/03/20 03:27:27</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>754349844</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.460936</BBRadius>
+        <BBHScale>0.535330</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="10.616945" Y="0.019633" Z="-7.572068" />
+        <BoundingMax X="18.605078" Y="3.545095" Z="7.349803" />
+        <BoundingCenter X="14.611012" Y="1.782364" Z="-0.111133" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_largebridge</Name>
+        <File>nerp_assets\textures\bridge\m_largebridge.p3d</File>
+        <Date>01/03/20 03:27:28</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-63438158</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.430057</BBRadius>
+        <BBHScale>2.580815</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-18.540085" Y="3.511670" Z="-6.364852" />
+        <BoundingMax X="14.649492" Y="18.604149" Z="6.495261" />
+        <BoundingCenter X="-1.945296" Y="11.057909" Z="0.065205" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_Prison</Name>
+        <File>nerp_assets\buildings\prison\m_prison.p3d</File>
+        <Date>01/03/20 03:26:56</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>29186941</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.995039</BBRadius>
+        <BBHScale>1.958769</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-26.206921" Y="-0.005531" Z="-12.995039" />
+        <BoundingMax X="24.701633" Y="9.942215" Z="12.995039" />
+        <BoundingCenter X="-0.752644" Y="4.968342" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_Prison_2</Name>
+        <File>nerp_assets\buildings\prison\m_prison_2.p3d</File>
+        <Date>01/03/20 03:26:58</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>11306128</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.995039</BBRadius>
+        <BBHScale>0.949446</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.881199" Y="-0.005531" Z="-12.995039" />
+        <BoundingMax X="12.794975" Y="9.942215" Z="12.995039" />
+        <BoundingCenter X="0.456888" Y="4.968342" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>beds</Name>
+        <File>nerp_assets\buildings\prison\prox\beds.p3d</File>
+        <Date>01/03/20 03:26:41</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>29106194</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.865979</BBRadius>
+        <BBHScale>0.918387</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="12.259360" Y="0.402699" Z="-11.926205" />
+        <BoundingMax X="34.054493" Y="5.020384" Z="11.805754" />
+        <BoundingCenter X="23.156927" Y="2.711541" Z="-0.060225" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_bridgesupport2</Name>
+        <File>nerp_assets\textures\bridge\m_bridgesupport2.p3d</File>
+        <Date>01/03/20 03:27:27</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2017767906</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.460936</BBRadius>
+        <BBHScale>0.535330</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="10.616945" Y="-7.528533" Z="-7.572068" />
+        <BoundingMax X="18.605078" Y="3.545095" Z="7.349803" />
+        <BoundingCenter X="14.611012" Y="-1.991719" Z="-0.111133" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>beds2</Name>
+        <File>nerp_assets\buildings\prison\prox\beds2.p3d</File>
+        <Date>01/03/20 03:26:46</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1923226464</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.865979</BBRadius>
+        <BBHScale>0.918387</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.769843" Y="0.402699" Z="-11.926205" />
+        <BoundingMax X="11.025287" Y="5.020384" Z="11.805754" />
+        <BoundingCenter X="0.127722" Y="2.711541" Z="-0.060225" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_prisongate2</Name>
+        <File>nerp_assets\buildings\prison_walls\m_prisongate2.p3d</File>
+        <Date>01/03/20 03:27:00</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1500708310</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.877726</BBRadius>
+        <BBHScale>1.140791</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.188845" Y="-0.033812" Z="-9.877995" />
+        <BoundingMax X="11.347988" Y="5.626614" Z="9.877457" />
+        <BoundingCenter X="0.079572" Y="2.796401" Z="-0.000269" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_prisonwall1</Name>
+        <File>nerp_assets\buildings\prison_walls\m_prisonwall1.p3d</File>
+        <Date>01/03/20 03:27:00</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-513181718</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.114400</BBRadius>
+        <BBHScale>0.249694</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.280426" Y="-0.002319" Z="-5.114400" />
+        <BoundingMax X="1.273645" Y="5.636060" Z="5.114400" />
+        <BoundingCenter X="-0.003390" Y="2.816871" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>M_prisonwall2</Name>
+        <File>nerp_assets\buildings\prison_walls\m_prisonwall2.p3d</File>
+        <Date>01/03/20 03:27:00</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-513181717</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.652914</BBRadius>
+        <BBHScale>0.682548</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.495036" Y="-0.002314" Z="-3.652914" />
+        <BoundingMax X="2.491545" Y="5.637618" Z="3.652914" />
+        <BoundingCenter X="-0.001746" Y="2.817652" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>

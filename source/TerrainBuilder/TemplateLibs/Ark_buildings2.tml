@@ -1,0 +1,1488 @@
+<?xml version="1.0" ?>
+<Library name="Ark_buildings2" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>Ark_Big_House1</Name>
+        <File>ark_buildings2\houses\ark_big_house1.p3d</File>
+        <Date>01/10/20 13:16:45</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1157005557</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.408785</BBRadius>
+        <BBHScale>0.930745</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.223701" Y="-0.612772" Z="-6.646622" />
+        <BoundingMax X="9.875116" Y="12.040003" Z="18.170948" />
+        <BoundingCenter X="-1.674293" Y="5.713615" Z="5.762163" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_Cabin</Name>
+        <File>ark_buildings2\houses\ark_cabin.p3d</File>
+        <Date>01/10/20 13:16:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1905186076</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.082203</BBRadius>
+        <BBHScale>1.066251</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.563697" Y="-0.090112" Z="-2.883191" />
+        <BoundingMax X="3.141609" Y="7.043390" Z="5.281215" />
+        <BoundingCenter X="-1.211044" Y="3.476639" Z="1.199012" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_HighC_House1</Name>
+        <File>ark_buildings2\houses\ark_highc_house1.p3d</File>
+        <Date>01/10/20 13:16:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-424369068</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.711340</BBRadius>
+        <BBHScale>1.965339</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.561611" Y="-0.731952" Z="-6.709317" />
+        <BoundingMax X="13.818504" Y="6.140000" Z="6.713363" />
+        <BoundingCenter X="0.628447" Y="2.704024" Z="0.002023" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_Mansion1</Name>
+        <File>ark_buildings2\houses\ark_mansion1.p3d</File>
+        <Date>01/10/20 13:17:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>51787527</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.724758</BBRadius>
+        <BBHScale>1.904354</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-22.153206" Y="-1.077972" Z="-9.946198" />
+        <BoundingMax X="26.311684" Y="8.165385" Z="15.503319" />
+        <BoundingCenter X="2.079239" Y="3.543706" Z="2.778561" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_Old_House1</Name>
+        <File>ark_buildings2\houses\ark_old_house1.p3d</File>
+        <Date>01/10/20 13:18:15</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-696876306</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.759336</BBRadius>
+        <BBHScale>0.860254</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.665874" Y="-0.024406" Z="-7.720472" />
+        <BoundingMax X="6.684131" Y="10.928106" Z="7.798200" />
+        <BoundingCenter X="0.009128" Y="5.451850" Z="0.038864" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_Old_House1_A</Name>
+        <File>ark_buildings2\houses\ark_old_house1_a.p3d</File>
+        <Date>01/10/20 13:18:27</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1961296784</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.759336</BBRadius>
+        <BBHScale>0.860254</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.665874" Y="-0.024406" Z="-7.720472" />
+        <BoundingMax X="6.684131" Y="10.928106" Z="7.798200" />
+        <BoundingCenter X="0.009128" Y="5.451850" Z="0.038864" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_Old_House1_B</Name>
+        <File>ark_buildings2\houses\ark_old_house1_b.p3d</File>
+        <Date>01/10/20 13:18:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1961296785</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.759336</BBRadius>
+        <BBHScale>0.860254</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.665874" Y="-0.024406" Z="-7.720472" />
+        <BoundingMax X="6.684131" Y="10.928106" Z="7.798200" />
+        <BoundingCenter X="0.009128" Y="5.451850" Z="0.038864" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_Old_House1_C</Name>
+        <File>ark_buildings2\houses\ark_old_house1_c.p3d</File>
+        <Date>01/10/20 13:18:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1961296786</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.759336</BBRadius>
+        <BBHScale>0.860254</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.665874" Y="-0.024406" Z="-7.720472" />
+        <BoundingMax X="6.684131" Y="10.928106" Z="7.798200" />
+        <BoundingCenter X="0.009128" Y="5.451850" Z="0.038864" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_Old_House1_D</Name>
+        <File>ark_buildings2\houses\ark_old_house1_d.p3d</File>
+        <Date>01/10/20 13:19:04</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1961296787</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.759336</BBRadius>
+        <BBHScale>0.860254</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.665874" Y="-0.024406" Z="-7.720472" />
+        <BoundingMax X="6.684131" Y="10.928106" Z="7.798200" />
+        <BoundingCenter X="0.009128" Y="5.451850" Z="0.038864" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_Old_House1_Debinarized_By_OMS_PublicTool</Name>
+        <File>ark_buildings2\houses\ark_old_house1_debinarized_by_oms_publictool.p3d</File>
+        <Date>02/08/21 04:51:43</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>946090506</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_Old_House1_E</Name>
+        <File>ark_buildings2\houses\ark_old_house1_e.p3d</File>
+        <Date>01/10/20 13:19:17</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1961296788</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.759336</BBRadius>
+        <BBHScale>0.860254</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.665874" Y="-0.024406" Z="-7.720472" />
+        <BoundingMax X="6.684131" Y="10.928106" Z="7.798200" />
+        <BoundingCenter X="0.009128" Y="5.451850" Z="0.038864" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_Small_House1</Name>
+        <File>ark_buildings2\houses\ark_small_house1.p3d</File>
+        <Date>01/10/20 13:19:21</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1400572590</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.489337</BBRadius>
+        <BBHScale>1.364034</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.813663" Y="-0.612772" Z="-5.681952" />
+        <BoundingMax X="6.161627" Y="5.865381" Z="5.296722" />
+        <BoundingCenter X="-1.326018" Y="2.626305" Z="-0.192615" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_Small_House1_A</Name>
+        <File>ark_buildings2\houses\ark_small_house1_a.p3d</File>
+        <Date>01/10/20 13:19:25</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2002539696</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.489337</BBRadius>
+        <BBHScale>1.364034</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.239076</Height>
+        <BoundingMin X="-8.813663" Y="-0.612772" Z="-5.681952" />
+        <BoundingMax X="6.161627" Y="5.865381" Z="5.296722" />
+        <BoundingCenter X="-1.326018" Y="2.626305" Z="-0.192615" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_Small_House1_B</Name>
+        <File>ark_buildings2\houses\ark_small_house1_b.p3d</File>
+        <Date>01/10/20 13:19:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2002539695</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.489337</BBRadius>
+        <BBHScale>1.364034</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.813663" Y="-0.612772" Z="-5.681952" />
+        <BoundingMax X="6.161627" Y="5.865381" Z="5.296722" />
+        <BoundingCenter X="-1.326018" Y="2.626305" Z="-0.192615" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_Small_House1_C</Name>
+        <File>ark_buildings2\houses\ark_small_house1_c.p3d</File>
+        <Date>01/10/20 13:19:33</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2002539694</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.489337</BBRadius>
+        <BBHScale>1.364034</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.813663" Y="-0.612772" Z="-5.681952" />
+        <BoundingMax X="6.161627" Y="5.865381" Z="5.296722" />
+        <BoundingCenter X="-1.326018" Y="2.626305" Z="-0.192615" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_Small_House1_D</Name>
+        <File>ark_buildings2\houses\ark_small_house1_d.p3d</File>
+        <Date>01/10/20 13:19:37</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2002539693</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.489337</BBRadius>
+        <BBHScale>1.364034</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.813663" Y="-0.612772" Z="-5.681952" />
+        <BoundingMax X="6.161627" Y="5.865381" Z="5.296722" />
+        <BoundingCenter X="-1.326018" Y="2.626305" Z="-0.192615" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_Small_House1_E</Name>
+        <File>ark_buildings2\houses\ark_small_house1_e.p3d</File>
+        <Date>01/10/20 13:19:41</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2002539692</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.489337</BBRadius>
+        <BBHScale>1.364034</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.239076</Height>
+        <BoundingMin X="-8.813663" Y="-0.612772" Z="-5.681952" />
+        <BoundingMax X="6.161627" Y="5.865381" Z="5.296722" />
+        <BoundingCenter X="-1.326018" Y="2.626305" Z="-0.192615" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_Police</Name>
+        <File>ark_buildings2\police\ark_police.p3d</File>
+        <Date>01/10/20 13:20:11</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-517679741</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>26.277657</BBRadius>
+        <BBHScale>0.942633</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-24.735523" Y="-4.430701" Z="-23.848612" />
+        <BoundingMax X="24.804871" Y="6.906511" Z="28.706701" />
+        <BoundingCenter X="0.034674" Y="1.237905" Z="2.429045" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_MallStore1</Name>
+        <File>ark_buildings2\shop\ark_mallstore1.p3d</File>
+        <Date>01/10/20 13:20:11</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1974955095</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.740426</BBRadius>
+        <BBHScale>1.763547</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.672925" Y="-0.529505" Z="-3.960309" />
+        <BoundingMax X="1.519909" Y="8.631165" Z="3.520543" />
+        <BoundingCenter X="-5.076508" Y="4.050830" Z="-0.219883" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_MallStore2</Name>
+        <File>ark_buildings2\shop\ark_mallstore2.p3d</File>
+        <Date>01/10/20 13:20:12</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1974955094</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.712428</BBRadius>
+        <BBHScale>1.878004</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.928690" Y="-0.650755" Z="-3.835329" />
+        <BoundingMax X="2.015219" Y="7.865330" Z="3.589528" />
+        <BoundingCenter X="-4.956736" Y="3.607287" Z="-0.122900" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_MallStore3</Name>
+        <File>ark_buildings2\shop\ark_mallstore3.p3d</File>
+        <Date>01/10/20 13:20:12</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1974955093</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.712390</BBRadius>
+        <BBHScale>1.776865</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.672920" Y="-0.529504" Z="-3.520141" />
+        <BoundingMax X="1.519912" Y="8.631679" Z="3.904639" />
+        <BoundingCenter X="-5.076504" Y="4.051087" Z="0.192249" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_MallStore4</Name>
+        <File>ark_buildings2\shop\ark_mallstore4.p3d</File>
+        <Date>01/10/20 13:20:12</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1974955092</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.712390</BBRadius>
+        <BBHScale>1.776865</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.928688" Y="-0.650755" Z="-3.589223" />
+        <BoundingMax X="1.264141" Y="7.868845" Z="3.835557" />
+        <BoundingCenter X="-5.332273" Y="3.609045" Z="0.123167" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_bigh</Name>
+        <File>ark_buildings2\statues\ark_bigh.p3d</File>
+        <Date>01/10/20 13:20:15</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1134009453</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.978878</BBRadius>
+        <BBHScale>0.879192</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.660754" Y="-0.001519" Z="-2.350728" />
+        <BoundingMax X="1.818873" Y="3.648200" Z="1.607028" />
+        <BoundingCenter X="0.079059" Y="1.823341" Z="-0.371850" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_watertower</Name>
+        <File>ark_buildings2\watertower\ark_watertower.p3d</File>
+        <Date>01/10/20 13:20:17</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-507513161</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.498488</BBRadius>
+        <BBHScale>0.871479</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.020018" Y="-0.002399" Z="-11.499583" />
+        <BoundingMax X="10.021368" Y="76.674049" Z="11.497394" />
+        <BoundingCenter X="0.000675" Y="38.335823" Z="-0.001095" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_mansion2</Name>
+        <File>ark_buildings2\houses\ark_mansion2.p3d</File>
+        <Date>01/10/20 13:18:03</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>146720456</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.954292</BBRadius>
+        <BBHScale>0.848506</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-22.022366" Y="-0.090230" Z="-25.954292" />
+        <BoundingMax X="22.022366" Y="10.222111" Z="25.954292" />
+        <BoundingCenter X="0.000000" Y="5.065940" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_alloysmelter</Name>
+        <File>ark_buildings2\objects\ark_alloysmelter.p3d</File>
+        <Date>01/10/20 13:19:55</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1596590106</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.802639</BBRadius>
+        <BBHScale>0.658004</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.430034" Y="-0.003333" Z="-0.395723" />
+        <BoundingMax X="0.626245" Y="0.820220" Z="1.209554" />
+        <BoundingCenter X="0.098105" Y="0.408444" Z="0.406916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_cannabis</Name>
+        <File>ark_buildings2\objects\ark_cannabis.p3d</File>
+        <Date>01/10/20 13:19:55</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-607278642</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.430744</BBRadius>
+        <BBHScale>1.000257</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.401733" Y="-0.006382" Z="-0.451895" />
+        <BoundingMax X="0.459977" Y="1.281332" Z="0.409594" />
+        <BoundingCenter X="0.029122" Y="0.637475" Z="-0.021150" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_grinder</Name>
+        <File>ark_buildings2\objects\ark_grinder.p3d</File>
+        <Date>01/10/20 13:19:55</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1368861860</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.355000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.355000" Y="0.000363" Z="-0.355000" />
+        <BoundingMax X="0.355000" Y="0.710049" Z="0.355000" />
+        <BoundingCenter X="0.000000" Y="0.355206" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_smelter</Name>
+        <File>ark_buildings2\objects\ark_smelter.p3d</File>
+        <Date>01/10/20 13:19:55</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-458230341</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.776843</BBRadius>
+        <BBHScale>0.679854</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.430034" Y="-0.004430" Z="-0.344131" />
+        <BoundingMax X="0.626245" Y="0.742250" Z="1.209554" />
+        <BoundingCenter X="0.098105" Y="0.368910" Z="0.432711" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_coal</Name>
+        <File>ark_buildings2\objects\coal\ark_coal.p3d</File>
+        <Date>01/10/20 13:19:55</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-683474788</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.272633</BBRadius>
+        <BBHScale>0.948019</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.359831" Y="-0.184306" Z="-1.028087" />
+        <BoundingMax X="1.053128" Y="1.335660" Z="1.517178" />
+        <BoundingCenter X="-0.153351" Y="0.575677" Z="0.244545" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_coal1</Name>
+        <File>ark_buildings2\objects\coal\ark_coal1.p3d</File>
+        <Date>01/10/20 13:19:55</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-99015019</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.988816</BBRadius>
+        <BBHScale>1.138896</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.100520" Y="-0.088813" Z="-1.009870" />
+        <BoundingMax X="1.151798" Y="1.722558" Z="0.967763" />
+        <BoundingCenter X="0.025639" Y="0.816873" Z="-0.021053" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_coal2</Name>
+        <File>ark_buildings2\objects\coal\ark_coal2.p3d</File>
+        <Date>01/10/20 13:19:55</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-99015018</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.404262</BBRadius>
+        <BBHScale>0.966498</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.182552" Y="-0.168847" Z="-1.377062" />
+        <BoundingMax X="1.531879" Y="1.361967" Z="1.431461" />
+        <BoundingCenter X="0.174664" Y="0.596560" Z="0.027200" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_gold</Name>
+        <File>ark_buildings2\objects\gold\ark_gold.p3d</File>
+        <Date>01/10/20 13:19:55</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1855371707</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.272633</BBRadius>
+        <BBHScale>0.948019</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.359831" Y="-0.184306" Z="-1.028087" />
+        <BoundingMax X="1.053128" Y="1.335660" Z="1.517178" />
+        <BoundingCenter X="-0.153351" Y="0.575677" Z="0.244545" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_gold1</Name>
+        <File>ark_buildings2\objects\gold\ark_gold1.p3d</File>
+        <Date>01/10/20 13:19:55</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>254626604</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.988816</BBRadius>
+        <BBHScale>1.138896</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.100520" Y="-0.088813" Z="-1.009870" />
+        <BoundingMax X="1.151798" Y="1.722558" Z="0.967763" />
+        <BoundingCenter X="0.025639" Y="0.816873" Z="-0.021053" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_gold2</Name>
+        <File>ark_buildings2\objects\gold\ark_gold2.p3d</File>
+        <Date>01/10/20 13:19:55</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>254626605</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.404262</BBRadius>
+        <BBHScale>0.966498</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.182552" Y="-0.168847" Z="-1.377062" />
+        <BoundingMax X="1.531879" Y="1.361967" Z="1.431461" />
+        <BoundingCenter X="0.174664" Y="0.596560" Z="0.027200" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_iron</Name>
+        <File>ark_buildings2\objects\iron\ark_iron.p3d</File>
+        <Date>01/10/20 13:19:55</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-269215987</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.272633</BBRadius>
+        <BBHScale>0.948019</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.359831" Y="-0.184306" Z="-1.028087" />
+        <BoundingMax X="1.053128" Y="1.335660" Z="1.517178" />
+        <BoundingCenter X="-0.153351" Y="0.575677" Z="0.244545" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_iron1</Name>
+        <File>ark_buildings2\objects\iron\ark_iron1.p3d</File>
+        <Date>01/10/20 13:19:55</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>605989988</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.988816</BBRadius>
+        <BBHScale>1.138896</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.100520" Y="-0.088813" Z="-1.009870" />
+        <BoundingMax X="1.151798" Y="1.722558" Z="0.967763" />
+        <BoundingCenter X="0.025639" Y="0.816873" Z="-0.021053" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_iron2</Name>
+        <File>ark_buildings2\objects\iron\ark_iron2.p3d</File>
+        <Date>01/10/20 13:19:55</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>605989989</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.404262</BBRadius>
+        <BBHScale>0.966498</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.182552" Y="-0.168847" Z="-1.377062" />
+        <BoundingMax X="1.531879" Y="1.361967" Z="1.431461" />
+        <BoundingCenter X="0.174664" Y="0.596560" Z="0.027200" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_small_house2</Name>
+        <File>ark_buildings2\houses\ark_small_house2.p3d</File>
+        <Date>01/10/20 13:19:45</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1896350287</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.654635</BBRadius>
+        <BBHScale>2.397334</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-18.326971" Y="-0.433735" Z="-5.543246" />
+        <BoundingMax X="13.579798" Y="6.278144" Z="7.766024" />
+        <BoundingCenter X="-2.373587" Y="2.922205" Z="1.111389" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_small_house2_a</Name>
+        <File>ark_buildings2\houses\ark_small_house2_a.p3d</File>
+        <Date>01/10/20 13:19:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1871912303</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.654635</BBRadius>
+        <BBHScale>2.397334</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-18.326971" Y="-0.433735" Z="-5.543246" />
+        <BoundingMax X="13.579798" Y="6.278144" Z="7.766024" />
+        <BoundingCenter X="-2.373587" Y="2.922205" Z="1.111389" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_small_house2_b</Name>
+        <File>ark_buildings2\houses\ark_small_house2_b.p3d</File>
+        <Date>01/10/20 13:19:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1871912302</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.654635</BBRadius>
+        <BBHScale>2.397334</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.355939</Height>
+        <BoundingMin X="-18.326971" Y="-0.433735" Z="-5.543246" />
+        <BoundingMax X="13.579798" Y="6.278144" Z="7.766024" />
+        <BoundingCenter X="-2.373587" Y="2.922205" Z="1.111389" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_trailer_house1</Name>
+        <File>ark_buildings2\houses\ark_trailer_house1.p3d</File>
+        <Date>01/10/20 13:19:53</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1796588414</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.325984</BBRadius>
+        <BBHScale>0.509379</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.580676" Y="-0.611834" Z="-6.334214" />
+        <BoundingMax X="2.863976" Y="4.000988" Z="6.317754" />
+        <BoundingCenter X="-0.358350" Y="1.694577" Z="-0.008230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_trailer_house1_a</Name>
+        <File>ark_buildings2\houses\ark_trailer_house1_a.p3d</File>
+        <Date>01/10/20 13:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1947258044</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.325984</BBRadius>
+        <BBHScale>0.509379</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.580676" Y="-0.611834" Z="-6.334214" />
+        <BoundingMax X="2.863976" Y="4.000988" Z="6.317754" />
+        <BoundingCenter X="-0.358350" Y="1.694577" Z="-0.008230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ark_trailer_house1_b</Name>
+        <File>ark_buildings2\houses\ark_trailer_house1_b.p3d</File>
+        <Date>01/10/20 13:19:55</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1947258043</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.325984</BBRadius>
+        <BBHScale>0.509379</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.580676" Y="-0.611834" Z="-6.334214" />
+        <BoundingMax X="2.863976" Y="4.000988" Z="6.317754" />
+        <BoundingCenter X="-0.358350" Y="1.694577" Z="-0.008230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ark_Showroom</Name>
+        <File>ark_buildings2\shop\ark_showroom.p3d</File>
+        <Date>01/10/20 13:20:14</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2034834301</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.098835</BBRadius>
+        <BBHScale>1.330577</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-19.506893" Y="-1.107329" Z="-12.255094" />
+        <BoundingMax X="23.334599" Y="8.444958" Z="19.942577" />
+        <BoundingCenter X="1.913853" Y="3.668815" Z="3.843742" />
+        <Placement></Placement>
+    </Template>
+</Library>

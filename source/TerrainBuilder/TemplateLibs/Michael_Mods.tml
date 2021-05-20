@@ -1,0 +1,597 @@
+<?xml version="1.0" ?>
+<Library name="Michael_Mods" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>m_atm</Name>
+        <File>michael_mods\objects\modernatm\m_atm.p3d</File>
+        <Date>11/20/19 20:49:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1608771368</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.168052</BBRadius>
+        <BBHScale>1.918051</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.323279" Y="-0.012232" Z="-0.167149" />
+        <BoundingMax X="0.321385" Y="1.634263" Z="0.168955" />
+        <BoundingCenter X="-0.000947" Y="0.811015" Z="0.000903" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>intersection</Name>
+        <File>michael_mods\objects\roads\intersection.p3d</File>
+        <Date>11/20/19 20:49:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>985591081</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>15.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.958609" Y="0.044077" Z="-15.000000" />
+        <BoundingMax X="15.041391" Y="0.044079" Z="15.000000" />
+        <BoundingCenter X="0.041391" Y="0.044078" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mainroad</Name>
+        <File>michael_mods\objects\roads\mainroad.p3d</File>
+        <Date>11/20/19 20:49:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-878409543</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.958608" Y="0.044077" Z="-5.000000" />
+        <BoundingMax X="5.041392" Y="0.044079" Z="5.000000" />
+        <BoundingCenter X="0.041392" Y="0.044078" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tjunction</Name>
+        <File>michael_mods\objects\roads\tjunction.p3d</File>
+        <Date>11/20/19 20:49:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>592529192</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>15.012001</BBRadius>
+        <BBHScale>0.666134</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.458609" Y="0.044077" Z="-15.012001" />
+        <BoundingMax X="5.541391" Y="0.044079" Z="15.012001" />
+        <BoundingCenter X="-4.458609" Y="0.044078" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>m_rsign</Name>
+        <File>michael_mods\objects\roadsign\m_rsign.p3d</File>
+        <Date>11/20/19 20:49:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-995283651</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.048328</BBRadius>
+        <BBHScale>21.529137</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.079341" Y="-0.011070" Z="-0.060138" />
+        <BoundingMax X="1.001599" Y="3.176873" Z="0.036519" />
+        <BoundingCenter X="-0.038871" Y="1.582901" Z="-0.011810" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>m_routesign</Name>
+        <File>michael_mods\objects\routesign\m_routesign.p3d</File>
+        <Date>11/20/19 20:49:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>151784436</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.047956</BBRadius>
+        <BBHScale>6.234968</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.299725" Y="0.000653" Z="-0.059393" />
+        <BoundingMax X="0.298282" Y="2.488439" Z="0.036519" />
+        <BoundingCenter X="-0.000722" Y="1.244546" Z="-0.011437" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>m_routesigneast</Name>
+        <File>michael_mods\objects\routesign\m_routesigneast.p3d</File>
+        <Date>11/20/19 20:49:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-304943119</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.047956</BBRadius>
+        <BBHScale>6.234970</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.299725" Y="-0.000258" Z="-0.059393" />
+        <BoundingMax X="0.298282" Y="2.745788" Z="0.036519" />
+        <BoundingCenter X="-0.000722" Y="1.372765" Z="-0.011437" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>m_routesignnorth</Name>
+        <File>michael_mods\objects\routesign\m_routesignnorth.p3d</File>
+        <Date>11/20/19 20:49:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1695202993</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.047956</BBRadius>
+        <BBHScale>6.234970</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.299725" Y="0.000231" Z="-0.059393" />
+        <BoundingMax X="0.298282" Y="2.746276" Z="0.036519" />
+        <BoundingCenter X="-0.000722" Y="1.373254" Z="-0.011437" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>m_routesignsouth</Name>
+        <File>michael_mods\objects\routesign\m_routesignsouth.p3d</File>
+        <Date>11/20/19 20:49:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1172125639</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.047956</BBRadius>
+        <BBHScale>6.234970</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.299725" Y="-0.000015" Z="-0.059393" />
+        <BoundingMax X="0.298282" Y="2.746030" Z="0.036519" />
+        <BoundingCenter X="-0.000722" Y="1.373007" Z="-0.011437" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>m_routesignwest</Name>
+        <File>michael_mods\objects\routesign\m_routesignwest.p3d</File>
+        <Date>11/20/19 20:49:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>893770595</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.047956</BBRadius>
+        <BBHScale>6.234970</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.299725" Y="-0.000015" Z="-0.059393" />
+        <BoundingMax X="0.298282" Y="2.746030" Z="0.036519" />
+        <BoundingCenter X="-0.000722" Y="1.373007" Z="-0.011437" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>m_sidewalk</Name>
+        <File>michael_mods\objects\sidewalk\m_sidewalk.p3d</File>
+        <Date>11/20/19 20:49:37</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>931094162</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.068530</BBRadius>
+        <BBHScale>0.964103</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.030980" Y="-0.002218" Z="-0.043668" />
+        <BoundingMax X="1.029366" Y="0.150416" Z="2.093392" />
+        <BoundingCenter X="-0.000807" Y="0.074099" Z="1.024862" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>m_sidewalk90</Name>
+        <File>michael_mods\objects\sidewalk\m_sidewalk90.p3d</File>
+        <Date>11/20/19 20:49:37</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-103922743</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.287837</BBRadius>
+        <BBHScale>1.022107</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.001564" Y="-0.003436" Z="-0.013893" />
+        <BoundingMax X="2.634179" Y="0.154009" Z="2.561781" />
+        <BoundingCenter X="1.317871" Y="0.075286" Z="1.273944" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>m_sidewalkslope</Name>
+        <File>michael_mods\objects\sidewalk\m_sidewalkslope.p3d</File>
+        <Date>11/20/19 20:49:37</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>325921497</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.068530</BBRadius>
+        <BBHScale>0.964103</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.030980" Y="-0.002208" Z="-0.043668" />
+        <BoundingMax X="1.029366" Y="0.150416" Z="2.093392" />
+        <BoundingCenter X="-0.000807" Y="0.074104" Z="1.024862" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>m_sidewalkslopef</Name>
+        <File>michael_mods\objects\sidewalk\m_sidewalkslopef.p3d</File>
+        <Date>11/20/19 20:49:37</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-222917683</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.068530</BBRadius>
+        <BBHScale>0.964103</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.003213" Y="-0.002208" Z="-0.043669" />
+        <BoundingMax X="2.057134" Y="0.150416" Z="2.093391" />
+        <BoundingCenter X="1.026960" Y="0.074104" Z="1.024861" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>m_speedh</Name>
+        <File>michael_mods\objects\speedsigns\m_speedh.p3d</File>
+        <Date>11/20/19 20:49:37</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>589365811</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.058374</BBRadius>
+        <BBHScale>5.333915</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.309568" Y="-0.012232" Z="-0.072367" />
+        <BoundingMax X="0.313158" Y="2.545201" Z="0.044381" />
+        <BoundingCenter X="0.001795" Y="1.266485" Z="-0.013993" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>trafficlighta</Name>
+        <File>michael_mods\objects\trafficlights\trafficlighta.p3d</File>
+        <Date>11/20/19 20:49:37</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1965128</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.581777</BBRadius>
+        <BBHScale>0.200986</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.158547" Y="0.001435" Z="-2.987851" />
+        <BoundingMax X="0.477283" Y="5.002118" Z="0.175704" />
+        <BoundingCenter X="0.159368" Y="2.501776" Z="-1.406074" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>trafficlightb</Name>
+        <File>michael_mods\objects\trafficlights\trafficlightb.p3d</File>
+        <Date>11/20/19 20:49:37</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1965129</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.581777</BBRadius>
+        <BBHScale>0.200986</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.158547" Y="0.001435" Z="-2.987851" />
+        <BoundingMax X="0.477283" Y="5.002118" Z="0.175704" />
+        <BoundingCenter X="0.159368" Y="2.501776" Z="-1.406074" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>m_trashcan</Name>
+        <File>michael_mods\objects\trashcan\m_trashcan.p3d</File>
+        <Date>11/20/19 20:49:37</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>495346250</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.257988</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.249486" Y="0.000000" Z="-0.261328" />
+        <BoundingMax X="0.266490" Y="0.956672" Z="0.254648" />
+        <BoundingCenter X="0.008502" Y="0.478336" Z="-0.003340" />
+        <Placement></Placement>
+    </Template>
+</Library>
