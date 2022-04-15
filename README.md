@@ -1,6 +1,6 @@
 # Extremo Map (MistyPeaks)
 [![Discord](https://img.shields.io/badge/Discord-Extremo-red.svg?style=plastic)](http://discord.extremo.co.uk)
-[![ArmA3](https://img.shields.io/badge/game-ArmA3-0078d7.svg?style=plastic)](https://store.steampowered.com/app/107410/CounterStrike_Global_Offensive/) 
+[![ArmA3](https://img.shields.io/badge/game-ArmA3-0078d7.svg?style=plastic)](https://store.steampowered.com/app/107410/)
 [![License](https://img.shields.io/github/license/ExtremoDevTeam/Map-MistyPeaks.svg?style=plastic)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/ExtremoDevTeam/Map-MistyPeaks.svg?style=plastic)](https://github.com/ExtremoDevTeam/Map-MistyPeaks/issues)
 <br>
