@@ -1,6 +1,5 @@
 # Extremo Map (MistyPeaks)
 [![ArmA3](https://img.shields.io/badge/Game-ArmA3-0078d7.svg?style=plastic)](https://store.steampowered.com/app/107410)
-[![License](https://img.shields.io/github/license/ExtremoDevTeam/Map-MistyPeaks.svg?style=plastic)](LICENSE)
 [![PullRequests](https://img.shields.io/github/issues-pr/ExtremoDevTeam/Map-MistyPeaks.svg?style=plastic)](https://github.com/ExtremoDevTeam/Map-MistyPeaks/pulls)
 [![LastCommit](https://img.shields.io/github/last-commit/ExtremoDevTeam/Map-MistyPeaks.svg?style=plastic)](https://github.com/ExtremoDevTeam/Map-MistyPeaks/commits)
 [![PullRequests](https://img.shields.io/github/issues-pr/ExtremoDevTeam/Map-MistyPeaks.svg?style=plastic)](https://github.com/ExtremoDevTeam/Map-MistyPeaks/pulls)
